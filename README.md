@@ -1,6 +1,7 @@
 # NASA Space Apps Noida Hackathon 2023 - Hack2Skill
 
 Welcome to the official repository for the NASA Space Apps Noida Hackathon 2023 organized by Hack2Skill!
+![WhatsApp Image 2023-10-08 at 4 59 30 AM](https://github.com/hack2skill/NASA-Space-Apps-Noida/assets/72219613/4466b9df-4b69-4a1e-84f7-5295edab296d)
 
 ## Getting Started
 
